@@ -1,2 +1,2 @@
-# JavaPractice
+# HeadFirstJava
 Practice code from HeadFirstJava
